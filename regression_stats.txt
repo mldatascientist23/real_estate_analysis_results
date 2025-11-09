@@ -1,0 +1,9 @@
+--- Regression Analysis Statistics ---
+Independent Variable (X): square feet
+Dependent Variable (Y): listing price
+Data Range (Original Excel Rows): 106 to 205
+
+Regression Equation: Y = 108.82X + 41306.19
+Slope (Coefficient for X): 108.8157
+Intercept (Y-intercept): 41306.1920
+R-squared (Coefficient of Determination): 0.8717
